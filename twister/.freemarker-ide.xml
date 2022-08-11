@@ -1,0 +1,7 @@
+<config>
+	<context-values>
+	</context-values>
+	<macro-library>
+		<entry namespace="common" path="src/main/resources/templates/parts/common.ftl" project="twister" type="file"/>
+	</macro-library>
+</config>
