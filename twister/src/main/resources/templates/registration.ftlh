@@ -6,7 +6,7 @@
 		<h3>Регистрация нового пользователя</h3>
 	</div>
 	
-${message!}
+${message?ifExists}
 
 <@l.login "/registration" />
 </@c.page>
