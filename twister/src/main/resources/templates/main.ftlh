@@ -31,11 +31,13 @@
 		<span>${message.text}</span> 
 		<i>${message.tag}</i>
 		<strong>${message.authorName}</strong>
+		<container>
 		<div>
 			<#if message.filename??>
 				<img src="img/${message.filename}"
 				</#if>
 		</div>
+		</container>
 	</div>
 
 	<#else>

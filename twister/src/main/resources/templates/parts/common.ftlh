@@ -3,7 +3,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Twister</title>
+<link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
 <#nested>
